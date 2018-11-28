@@ -7,6 +7,7 @@ Boilerplate for creating React projects with SASS styling. Also comes with Webpa
 - NPM or Yarn
 
 ## Installation 
+
 Install package with NPM or Yarn.
 
 <b>Yarn</b>
@@ -26,6 +27,7 @@ start:prod          Starts server
 ```
 
 ##Included packages
+
 Few packages are already installed for rapid development:
 - jQuery
 - Foundation-sites
@@ -34,4 +36,5 @@ Few packages are already installed for rapid development:
 - ReactDOM
 
 ##License
+
 MIT
