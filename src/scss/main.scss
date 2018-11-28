@@ -1,0 +1,23 @@
+@import './node_modules/foundation-sites/scss/foundation';
+
+/// include all modules of foundation
+@include foundation-everything;
+
+body {
+    font-size: 16px;
+    text-align: center;
+}
+
+.cell {
+    /*background: dodgerblue;*/
+    background: #1779ba;
+    line-height: 50px;
+    min-height: 25vh;
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.cell:nth-child(odd) {
+    background: #37a0e6;
+}
