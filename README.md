@@ -26,7 +26,7 @@ prestart:prod       Bundles Javascript and minifies them.
 start:prod          Starts server
 ```
 
-##Included packages
+## Included packages
 
 Few packages are already installed for rapid development:
 - jQuery
@@ -35,6 +35,5 @@ Few packages are already installed for rapid development:
 - React
 - ReactDOM
 
-##License
-
+## License
 MIT
